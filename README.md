@@ -77,3 +77,4 @@ Attention/
 #### 2025-12-17: https://x.com/trailblaziger/status/2001519364332491192
 #### 2025-12-18: https://x.com/trailblaziger/status/2001881847748301104
 #### 2025-12-19: https://x.com/trailblaziger/status/2002242503316242469
+#### 2025-12-20: https://x.com/trailblaziger/status/2002608178958049490
