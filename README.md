@@ -122,3 +122,4 @@ Attention/
 #### 2026-02-09: https://x.com/trailblaziger/status/2021097388354797949
 #### 2026-02-10: https://x.com/trailblaziger/status/2021459604584997295
 #### 2026-02-11: https://x.com/trailblaziger/status/2021824230518636566
+#### 2026-02-13: https://x.com/trailblaziger/status/2022545000190312448
