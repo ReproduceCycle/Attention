@@ -128,3 +128,4 @@ Attention/
 #### 2026-02-16: https://x.com/trailblaziger/status/2023638308962677117
 #### 2026-02-17: https://x.com/trailblaziger/status/2024003602444861649
 #### 2026-02-19: https://x.com/trailblaziger/status/2024718679334965267
+#### 2026-02-21: https://x.com/trailblaziger/status/2025440569825395065
