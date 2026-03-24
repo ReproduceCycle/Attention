@@ -14,14 +14,14 @@ MUSICS_DIR = os.path.join(BASE_DIR, "musics")
 CONFIG_JSON_PATH = os.path.join(DOCS_DIR, "config.json")
 
 # ================= 基础配置 =================
-REPO_URL = "https://github.com/anonym-g/Attention"
-TWITTER_USERNAME = "trailblaziger"
+REPO_URL = "https://github.com/ReproduceCycle/Attention"
+TWITTER_USERNAME = "ReproduceCycle"
 BASE_COLOR_SLOPE_THRESHOLD = 100.0
 SUPPORTED_MUSIC_EXTENSIONS = ['.flac', '.mp3', '.wav', '.m4a', '.ogg']
 
 # HTTP 头
 HEADERS = {
-    'User-Agent': 'Attention-Bot/3.0 (https://github.com/anonym-g/Attention)'
+    'User-Agent': 'Attention-Bot/3.0 (https://github.com/ReproduceCycle/Attention)'
 }
 
 # ================= 视频生成配置 (Animator) =================
